@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I’m a junior Python developer with a passion for
 ## 📫 Get in Touch
 
 - **LinkedIn**: ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/paulo-selegato-a298012b6/))
-- **Instagram**: (https://www.linkedin.com/in/paulo-selegato-a298012b6/)](https://www.instagram.com/paulo.selegato)
+- **Instagram**: (https://www.instagram.com/paulo.selegato)
 - **Web**: ([selegato.com](https://selegato.com))
 
 ---
