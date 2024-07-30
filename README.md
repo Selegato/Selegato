@@ -1,4 +1,4 @@
-# Hello, I'm [Paulo Selegato]! 👋
+# Hello, I'm Paulo Selegato! 👋
 
 Welcome to my GitHub profile. I’m a junior Python developer with a passion for coding and problem-solving. I specialize in Python. Feel free to explore my projects and get to know more about me on my website: [selegato.com](https://selegato.com).
 
