@@ -1,29 +1,24 @@
 # Hello, I'm Paulo Selegato
 
-Welcome to my GitHub profile. I am a Cloud Developer with a strong focus on Python and cloud-native architectures. My work spans from infrastructure design and provisioning to the development, optimization, and operation of scalable services in the cloud.
+Welcome to my GitHub profile. I am a Cloud Developer specialized in **AWS and Python**, with hands-on experience designing, building, and operating cloud-native and serverless solutions. My work covers the full lifecycle of cloud systems — from architecture design and infrastructure provisioning to service optimization and operational excellence.
 
-I have hands-on experience designing solutions on AWS, evaluating architectural trade-offs, and implementing services using serverless and event-driven patterns. I am particularly focused on efficiency, reliability, and cost optimization across cloud environments.
+I have a strong background in AWS, where I design scalable and secure architectures, evaluate technical and cost trade-offs, and modernize workloads using serverless and event-driven patterns. I am particularly focused on **efficiency, reliability, observability, and cost optimization**, including real-world initiatives that significantly reduced cloud operating costs.
 
 ## Technologies and Tools
 
-- **Languages**: Python
+- **Languages**: Python  
 - **Cloud & DevOps**: AWS (EC2, IAM, VPC, CloudWatch, Cost Explorer), AWS SAM, Infrastructure as Code  
-- **Frameworks & Libraries**: FastAPI, Flask, Django
-- **Monitoring & Operations**: Dashboards, alarms, logging, cost allocation via tagging  
+- **Frameworks & Libraries**: FastAPI, Flask, Django  
+- **Monitoring & FinOps**: Metrics, dashboards, alarms, centralized logging, cost allocation via tagging  
 
 ## Areas of Focus
 
-- Cloud architecture design and infrastructure provisioning  
+- AWS cloud architecture design and infrastructure provisioning  
 - Development and optimization of Python-based cloud services  
-- Serverless architectures using AWS SAM  
-- Cost optimization and financial governance for cloud workloads  
-- Observability through metrics, dashboards, and alerts  
+- Serverless and event-driven architectures using AWS SAM  
+- Cloud cost optimization and financial governance (FinOps)  
+- Observability, monitoring, and operational reliability  
 
 ## Get in Touch
 
-- **LinkedIn**: https://www.linkedin.com/in/paulo-selegato-a298012b6/  
-- **Website**: https://selegato.com  
-
----
-
-> Software development is about building reliable systems where architecture, code, and operations work together.
+- **LinkedIn**: https://www.linkedin.com/in/paulo-selegato
